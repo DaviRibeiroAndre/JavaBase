@@ -12,7 +12,7 @@ public class Friend {
 	
 	static void df() {
 		
-		System.out.println("you have "+nof+"friendos");
+		System.out.println("you have "+nof+" friendos");
 		
 		
 	}
